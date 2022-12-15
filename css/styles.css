@@ -1,0 +1,18 @@
+body {
+  background-color: #a4be7b;
+  color: white;
+}
+.showTime {
+  color: #e5d9b6;
+  /* color: #fffbeb; */
+  /* color: #17d4fe; */
+  font-size: 13rem;
+  font-family: Orbitron;
+  letter-spacing: 2rem;
+}
+.mainDiv {
+  position: absolute;
+  margin-top: 18%;
+  margin-left: 17%;
+  /* transform: translateX(-50%); */
+}
